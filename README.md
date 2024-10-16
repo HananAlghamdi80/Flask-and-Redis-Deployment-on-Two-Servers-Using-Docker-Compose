@@ -1,4 +1,8 @@
 🌐 VPC Infrastructure with Terraform on Alibaba Cloud
+
+![App Screenshot](https://github.com/HananAlghamdi80/Flask-and-Redis-Deployment-on-Two-Servers-Using-Docker-Compose/blob/main/app.png)
+
+
 📄 Overview
 This project sets up a VPC with public and private subnets on Alibaba Cloud using Terraform. It provisions two ECS instances: one in the public subnet and another in the private subnet, designed for secure and scalable deployments. Additionally, Python scripts were utilized for application logic (not included in this repository).
 
@@ -9,6 +13,7 @@ Public instance: For external access.
 Private instance: For internal, secure operations.
 Security Groups: Configured to allow web traffic and private communications.
 Python Scripting: Application logic developed using Python (code not included in the repository).
+
 🛠️ How to Use
 Clone the repository:
 
